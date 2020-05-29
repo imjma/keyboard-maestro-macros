@@ -1,2 +1,1 @@
-# keyboard-maestro-macros
-Keyboard Maestro Macros
+# Keyboard Maestro Macros
